@@ -3,12 +3,11 @@
 This is a solution to the [Order summary card challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/order-summary-component-QlPmajDUj). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
 
 ## Table of contents
-
-- [Overview](#overview)
-  - [Screenshot](#screenshot)
-  - [Links](#links)
-  - [Built with](#built-with)
-- [Author](Stephen Lemmy Mwaura)
+  - [Table of contents](#table-of-contents)
+    - [Screenshot](#screenshot)
+    - [Links](#links)
+    - [Built with](#built-with)
+  - [Author](#author)
 
 ### Screenshot
 
@@ -31,6 +30,6 @@ Website Screenshot.
 ## Author
 
 - Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@ylemmyMwaura](https://www.frontendmentor.io/profile/LemmyMwaura)
+- Frontend Mentor - [@lemmyMwaura](https://www.frontendmentor.io/profile/LemmyMwaura)
 - Twitter - [@yourusername](https://www.twitter.com/yourusername)
 
