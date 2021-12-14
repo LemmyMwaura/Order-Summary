@@ -35,6 +35,7 @@ body {
     background-size: contain;
     background-color: hsl(225, 100%, 94%);
     background-position: top;
+    overflow: hidden;
 }
 
 .container {
